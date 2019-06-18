@@ -1,8 +1,6 @@
 package Ajay;
 
 import java.sql.*;
-
-
 public class AjClass { 
 
 	public static void main (String args []) throws SQLException  {
