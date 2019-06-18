@@ -2,7 +2,9 @@ package Ajay;
 
 import java.sql.*;
 
+
 public class AjClass { 
+
 	public static void main (String args []) throws SQLException  {
 	Connection conn = null;
 	Statement stmt = null;
