@@ -1,7 +1,9 @@
 package com.jdbc.utility;
 import static com.jdbc.Constants.*;
 
-/*import static com.jdbc.Constants.DRIVER;
+/*
+modified by karthik
+import static com.jdbc.Constants.DRIVER;
 import static com.jdbc.Constants.PASSWORD;
 import static com.jdbc.Constants.URL;
 import static com.jdbc.Constants.USERNAME;
